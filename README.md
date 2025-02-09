@@ -70,10 +70,10 @@ Users must enter their email to access their assigned documents. The USER_ACCESS
 
 ## **How It Works**
 
-1️⃣ User Login: Users enter their email to authenticate.
-2️⃣ Document Access: The system loads the documents assigned to the user.
-3️⃣ Search & Retrieval: Uses semantic search and keyword matching to retrieve the most relevant excerpts.
-4️⃣ Summarization & Contextual Responses: Uses an AI-powered summarization model to generate concise answers.Maintains conversation history for improved follow-up queries.
+1️. User Login: Users enter their email to authenticate.
+2️. Document Access: The system loads the documents assigned to the user.
+3️. Search & Retrieval: Uses semantic search and keyword matching to retrieve the most relevant excerpts.
+4️. Summarization & Contextual Responses: Uses an AI-powered summarization model to generate concise answers.Maintains conversation history for improved follow-up queries.
 
 ## **Future Enhancements**
 
