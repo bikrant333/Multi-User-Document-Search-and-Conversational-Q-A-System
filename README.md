@@ -52,17 +52,15 @@ This system is a web-based multi-user document search application that allows us
  
 
 ## **Setup Instructions**
-1️⃣ Install Dependencies
 
+1️. Install Dependencies
 pip install -r requirements.txt
 
-2️⃣ Run the Application
-
-streamlit run app.py
-
-3️⃣ Upload Documents
-
+2. Upload Documents
 Place the PDF documents inside the uploaded_docs/ folder before running the app.
+
+3. Run the Application
+streamlit run app.py
 
 ## **User Authentication**
 
