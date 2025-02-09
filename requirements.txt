@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain_community
+load_dotenv
+openai
+faiss-cpu
+pandas
+tiktoken
+PyMuPDF
+sentence_transformers
+PyPDF2
+PyPDF
+ctransformers
+keybert
